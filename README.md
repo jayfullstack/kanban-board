@@ -2,6 +2,9 @@ Welcome to My Kanban Board WebApp!
 
 A kanban board is a collection of assignments
 
+For the purpose of this project,
+Data will be stored/manipulated in LocalStorage.
+
 To move an assignment from the list:
 
 - Click any item (not on the text itself)
