@@ -4,7 +4,8 @@ A kanban board is a collection of assignments
 
 To move an assignment from the list:
 
-- Click the item, click on the whitespace next to the text and hold down your mouse to drag it to another column.
+- Click any item (not on the text itself)
+- While still maintaining your mousedown state, drag the item to any column you want! 
 
 To add an item:
 
